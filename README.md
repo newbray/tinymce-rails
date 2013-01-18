@@ -2,7 +2,7 @@ CHANGES
 =======
 
 Made this gem is compatible with rails 3.1.0, as there is no other version that works correctly (nested resource delete error).
-
+Bodged relative_url_root, so if your app's root is anything other than '/', it probably won't work
 
 Rails 3.1 Integration for TinyMCE
 =================================
