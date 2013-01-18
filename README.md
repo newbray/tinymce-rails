@@ -1,3 +1,9 @@
+CHANGES
+=======
+
+Made this gem is compatible with rails 3.1.0, as there is no other version that works correctly (nested resource delete error).
+
+
 Rails 3.1 Integration for TinyMCE
 =================================
 
